@@ -1,4 +1,4 @@
-# Master-Academic-Project
+## Introduction
 This repository includes different academic project during the classes
 * Machine Learning
 * Artificial Intelligence
